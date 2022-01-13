@@ -8,7 +8,7 @@
 
 > StopIteration
 
->>Raised when the next() method of an iterator does not point to any object.
+>> Raised when the next() method of an iterator does not point to any object.
 
 > SystemExit
 
